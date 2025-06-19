@@ -1,4 +1,4 @@
-st.title("My website.")
+st.title("My website")
 st.write(
     "Terimakasih sudah mampir bos.")
 st.header("hai shalova🤓")
