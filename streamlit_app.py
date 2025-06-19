@@ -1,5 +1,5 @@
-import streamlit as st
-st.title("welcome")
+to import streamlit as st
+
 st.write(
     "welcome to nonoy web."
 )
